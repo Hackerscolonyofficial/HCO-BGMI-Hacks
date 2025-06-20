@@ -23,7 +23,6 @@ chmod +x *
 ./setup.sh
 ```
 ```sh
-
 ```
 Now to use this tool you will be automatically redirected to our YouTube channel do subscribe,
 click on Bell icon and come back to Termux and you Will be able to use this tool for free
