@@ -4,18 +4,18 @@
 
 𝗧𝗼 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝘁𝗵𝗶𝘀 𝘁𝗼𝗼𝗹 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗧𝗲𝗿𝗺𝘂𝘅 𝗳𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝗯𝗲𝗹𝗼𝘄 👇🏼
 
-'''
-'''apt update && apt upgrade```
-
-'''pkg install git```
-
-'''pkg install python```
-   
-'''pip install pyfiglet termcolor```
-   
-'''chmod +x *```
-   
-'''./setup.sh```
+    '''apt update && apt upgrade```
+```
+    '''pkg install git```
+```
+    '''pkg install python```
+```
+    '''pip install pyfiglet termcolor```
+```
+    '''chmod +x *```
+   ```
+   '''./setup.sh```
+```
 
 Now to use this tool you will be automatically redirected to our YouTube channel do subscribe,
 click on Bell icon and come back to Termux and you Will be able to use this tool for free
