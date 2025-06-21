@@ -17,6 +17,12 @@ pkg install python
 pip install pyfiglet termcolor
 ```
 ```sh
+git clone https://github.com/Hackerscolonyofficial/HCO-BGMI-Hacks.git
+```
+```sh
+cd HCO-BGMI-Hacks
+```
+```sh
 chmod +x *
 ```
 ```sh
